@@ -19,7 +19,6 @@ function groupBY(array, key) {
         }
 
     }
-    
     return result
 }
 
